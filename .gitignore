@@ -1,0 +1,8 @@
+apps/boilerplate/.vscode/
+
+
+#MacOS
+**/.DS_Store
+
+#IDEA
+*.idea
